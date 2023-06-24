@@ -152,6 +152,7 @@ body {
 
 .about-img img{
     width: 35vw;
+    border-radius: 10%;
 }
 
 .heading{
@@ -432,8 +433,10 @@ body {
             flex-direction: column-reverse;
         }
         .about-img img {
+            width: 350px;
+            border-radius: 10%;
+            height: 300px;
             margin: 70vw;
-            border-radius: 30%;
             margin-top: 4rem;
         }
         .services {
